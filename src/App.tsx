@@ -10,7 +10,7 @@ import HomeTR from './pages/HomeTR';
 import AboutTR from './pages/AboutTR';
 import ExperienceTR from './pages/ExperienceTR';
 import ContactTR from './pages/ContactTR';
-import profileImg from './mehmetresitgul.com.png';
+import profileImg from './mehmetresitgul.png';
 
 interface NavButtonProps {
   onClick: () => void;
